@@ -547,7 +547,7 @@ input[type="radio"].visually-hidden {
 
 .fadeInUp {
   animation-name: fadeInUp;
-  animation-duration: 1.5s;
+  animation-duration: 1.4s;
   animation-fill-mode: backwards; }
 
 @keyframes fadeInUp {
