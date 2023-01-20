@@ -8403,7 +8403,7 @@ a.link {
     display: inline-block;
     font-size: 0.8rem;
     padding: 0.5rem 1rem;
-    background-color: red;
+    background-color: #0028d2;
     color: white;
     text-decoration: none !important;
     -webkit-transition: all 0.3s;
@@ -8417,14 +8417,10 @@ a.link {
         padding: 0.4rem 0.9rem; } }
     .header__cta:hover {
       color: white;
-      background-color: #d80000;
+      background-color: #2f53eb;
       -webkit-box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
-              box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2);
-      -webkit-transform: translateY(-4px);
-              transform: translateY(-4px); }
+              box-shadow: 4px 4px 8px 0 rgba(34, 60, 80, 0.2); }
     .header__cta:active {
-      -webkit-transform: translateY(2px);
-              transform: translateY(2px);
       -webkit-box-shadow: none;
               box-shadow: none; }
   .header__kom {
